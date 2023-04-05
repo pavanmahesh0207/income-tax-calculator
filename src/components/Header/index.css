@@ -1,0 +1,8 @@
+.header {
+  height: 70px;
+  width: 100%;
+  box-shadow: 0 1px 5px hsl(0, 0%, 0%);
+  padding: 20px;
+  text-align: left;
+  position: -webkit-sticky;
+}
